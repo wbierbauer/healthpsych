@@ -1,5 +1,5 @@
 website:
-  title: "Healthpsych"
+  title: "healthpsych"
   navbar:
     left:
       - href: index.qmd
