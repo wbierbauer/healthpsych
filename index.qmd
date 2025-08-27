@@ -1,11 +1,20 @@
 ---
-title: "healthpsych"
+title: "Healthpsych"
 ---
 
-This is a Quarto website.
+Welcome to my research website. My work focuses on the psychological aspects of health and behavior. This site provides an overview of my publications, projects, and other professional activities.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+I am a health psychologist specializing in behavioral change and motivation. My research interests include:
+
+* Health behavior
+* Stress and coping
+* Digital health interventions
+
+## Latest News
+
+* **July 2025:** Our new paper on digital health interventions was published in the *Journal of Health Psychology*.
+* **June 2025:** I gave a talk at the international conference on a new model of stress management.
+
+You can find more information about my work on the Research page.
