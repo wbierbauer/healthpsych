@@ -2,3 +2,17 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rapp.history
+*.tar.gz
+*.Rcheck/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+.Renviron
+docs/
+po/*~
+rsconnect/
