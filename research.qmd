@@ -1,0 +1,17 @@
+---
+title: "Meine Forschung"
+---
+
+## Publikationen
+
+Hier finden Sie eine Liste meiner neuesten Publikationen:
+
+* Musterpublikation 1 (2025): "Titel der Publikation." Journalname.
+* Musterpublikation 2 (2025): "Titel der zweiten Publikation." Journalname.
+
+## Forschungsprojekte
+
+Hier sind einige meiner aktuellen Projekte:
+
+* **Projekt A:** Beschreibung des Projekts A
+* **Projekt B:** Beschreibung des Projekts B
